@@ -47,3 +47,9 @@ Thumbs.db
 server/node_modules
 server/.env
 server/package-lock.json
+
+# MLOps generated files
+/.venv/
+/ml/artifacts/
+__pycache__/
+.pytest_cache/
